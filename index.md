@@ -13,6 +13,10 @@ This is a github course.
 ![image](files://C:/Users/joachim.schneider04@sap.com/Documents/troll-face-meme-uhd-8k-wallpaper.jpg)
 
 <img src="troll-face-mem-uhd-8k-wallpaper.jpg" alt="troll-face" width="200">
+    
+    <p1>
+        This should not be visible without aktivating
+    </p1>
 
 </div>
 
